@@ -1,16 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/logo-dark.png">
-  <img alt="a logo for iran clash rules in both dark and light mode" src="assets/logo-dark.png">
-</picture>
-
-<p align="center">
-<img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Chocolate4U/Iran-clash-rules/release.yml?event=schedule&style=for-the-badge&logo=github&cacheSeconds=3600">
-<img alt="GitHub release" src="https://img.shields.io/github/v/release/Chocolate4U/Iran-clash-rules?style=for-the-badge&cacheSeconds=3600">
-<img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Chocolate4U/Iran-clash-rules?display_date=published_at&style=for-the-badge&cacheSeconds=3600">
-<img alt="License" src="https://img.shields.io/github/license/Chocolate4U/Iran-clash-rules?style=for-the-badge&color=blue&cacheSeconds=3600">
-</p>
-
 # :writing_hand: Introduction
 
 An enhanced and All-in-One set of geo-location routing files optimized for Iranian users to use in Clash/Clash.Meta.
