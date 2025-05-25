@@ -2,8 +2,8 @@
 
 An enhanced and All-in-One set of geo-location routing files optimized for Iranian users to use in Clash/Clash.Meta.
 
-:bulb: For V2Ray geolocation rules please refer to [Iran V2Ray Rules](https://github.com/Chocolate4U/Iran-v2ray-rules)  
-:bulb: For Sing-Box geolocation rules please refer to [Iran Sing-Box Rules](https://github.com/Chocolate4U/Iran-sing-box-rules)
+:bulb: For V2Ray geolocation rules please refer to [Iran V2Ray Rules](https://github.com/ThyArt-IsMurder/v2ray-rules) 
+
 
 # :page_with_curl: Categories
 
@@ -132,138 +132,138 @@ GeoIP database in Clash.Meta format.
 
 - IR
 
-  - `text` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir.txt](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir.txt)
-  - `yaml` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir.yaml](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir.yaml)
+  - `text` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ir.txt](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ir.txt)
+  - `yaml` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ir.yaml](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ir.yaml)
 
 - IR-Lite
 
-  - `text` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir-lite.txt](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir-lite.txt)
-  - `yaml` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir-lite.yaml](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir-lite.yaml)
+  - `text` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ir-lite.txt](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ir-lite.txt)
+  - `yaml` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ir-lite.yaml](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ir-lite.yaml)
 
 - Category-ads-all
 
-  - `text` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/category-ads-all.txt](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/category-ads-all.txt)
-  - `yaml` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/category-ads-all.yaml](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/category-ads-all.yaml)
+  - `text` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/category-ads-all.txt](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/category-ads-all.txt)
+  - `yaml` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/category-ads-all.yaml](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/category-ads-all.yaml)
 
 - Malware
 
-  - `text` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.txt](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.txt)
-  - `yaml` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.yaml](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.yaml)
+  - `text` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/malware.txt](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/malware.txt)
+  - `yaml` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/malware.yaml](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/malware.yaml)
 
 - Phishing
 
-  - `text` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.txt](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.txt)
-  - `yaml` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.yaml](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.yaml)
+  - `text` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/phishing.txt](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/phishing.txt)
+  - `yaml` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/phishing.yaml](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/phishing.yaml)
 
 - CryptoMiners
 
-  - `text` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.txt](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.txt)
-  - `yaml` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.yaml](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.yaml)
+  - `text` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/cryptominers.txt](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/cryptominers.txt)
+  - `yaml` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/cryptominers.yaml](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/cryptominers.yaml)
 
 - Apps
 
-  - `text` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/apps.txt](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/apps.txt)
-  - `yaml` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/apps.yaml](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/apps.yaml)
+  - `text` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/apps.txt](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/apps.txt)
+  - `yaml` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/apps.yaml](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/apps.yaml)
 
 - IRASN
 
-  - `text` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/irasn.txt](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/irasn.txt)
-  - `yaml` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/irasn.yaml](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/irasn.yaml)
+  - `text` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/irasn.txt](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/irasn.txt)
+  - `yaml` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/irasn.yaml](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/irasn.yaml)
 
 - IRcidr
 
-  - `text` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.txt](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.txt)
-  - `yaml` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.yaml](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.yaml)
+  - `text` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ircidr.txt](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ircidr.txt)
+  - `yaml` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ircidr.yaml](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ircidr.yaml)
 
 - Private
 
-  - `text` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/private.txt](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/private.txt)
-  - `yaml` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/private.yaml](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/private.yaml)
+  - `text` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/private.txt](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/private.txt)
+  - `yaml` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/private.yaml](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/private.yaml)
 
 - ArvanCloud
 
-  - `text` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/arvancloud.txt](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/arvancloud.txt)
-  - `yaml` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/arvancloud.yaml](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/arvancloud.yaml)
+  - `text` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/arvancloud.txt](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/arvancloud.txt)
+  - `yaml` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/arvancloud.yaml](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/arvancloud.yaml)
 
 - DerakCloud
 
-  - `text` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/derakcloud.txt](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/derakcloud.txt)
-  - `yaml` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/derakcloud.yaml](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/derakcloud.yaml)
+  - `text` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/derakcloud.txt](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/derakcloud.txt)
+  - `yaml` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/derakcloud.yaml](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/derakcloud.yaml)
 
 - IranServer
 
-  - `text` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/iranserver.txt](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/iranserver.txt)
-  - `yaml` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/iranserver.yaml](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/iranserver.yaml)
+  - `text` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/iranserver.txt](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/iranserver.txt)
+  - `yaml` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/iranserver.yaml](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/iranserver.yaml)
 
 - ParsPack
-  - `text` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/parspack.txt](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/parspack.txt)
-  - `yaml` [https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/parspack.yaml](https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/parspack.yaml)
+  - `text` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/parspack.txt](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/parspack.txt)
+  - `yaml` [https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/parspack.yaml](https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/parspack.yaml)
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jsdelivr/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/jsdelivr/dark"><img height="32" width="32" alt="github logo in dark and light mode." src="https://cdn.simpleicons.org/jsdelivr/dark"></picture> From jsDelivr CDN
 
 - IR
 
-  - `text` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/ir.txt](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/ir.txt)
-  - `yaml` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/ir.yaml](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/ir.yaml)
+  - `text` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/ir.txt](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/ir.txt)
+  - `yaml` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/ir.yaml](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/ir.yaml)
 
 - IR-Lite
 
-  - `text` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/ir-lite.txt](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/ir-lite.txt)
-  - `yaml` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/ir-lite.yaml](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/ir-lite.yaml)
+  - `text` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/ir-lite.txt](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/ir-lite.txt)
+  - `yaml` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/ir-lite.yaml](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/ir-lite.yaml)
 
 - Category-ads-all
 
-  - `text` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/category-ads-all.txt](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/category-ads-all.txt)
-  - `yaml` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/category-ads-all.yaml](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/category-ads-all.yaml)
+  - `text` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/category-ads-all.txt](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/category-ads-all.txt)
+  - `yaml` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/category-ads-all.yaml](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/category-ads-all.yaml)
 
 - Malware
 
-  - `text` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/malware.txt](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/malware.txt)
-  - `yaml` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/malware.yaml](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/malware.yaml)
+  - `text` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/malware.txt](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/malware.txt)
+  - `yaml` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/malware.yaml](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/malware.yaml)
 
 - Phishing
 
-  - `text` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/phishing.txt](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/phishing.txt)
-  - `yaml` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/phishing.yaml](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/phishing.yaml)
+  - `text` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/phishing.txt](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/phishing.txt)
+  - `yaml` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/phishing.yaml](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/phishing.yaml)
 
 - CryptoMiners
 
-  - `text` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/cryptominers.txt](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/cryptominers.txt)
-  - `yaml` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/cryptominers.yaml](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/cryptominers.yaml)
+  - `text` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/cryptominers.txt](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/cryptominers.txt)
+  - `yaml` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/cryptominers.yaml](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/cryptominers.yaml)
 
 - Apps
 
-  - `text` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/apps.txt](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/apps.txt)
-  - `yaml` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/apps.yaml](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/apps.yaml)
+  - `text` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/apps.txt](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/apps.txt)
+  - `yaml` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/apps.yaml](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/apps.yaml)
 
 - IRcidr
 
-  - `text` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/ircidr.txt](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/ircidr.txt)
-  - `yaml` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/ircidr.yaml](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/ircidr.yaml)
+  - `text` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/ircidr.txt](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/ircidr.txt)
+  - `yaml` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/ircidr.yaml](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/ircidr.yaml)
 
 - Private
 
-  - `text` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/private.txt](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/private.txt)
-  - `yaml` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/private.yaml](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/private.yaml)
+  - `text` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/private.txt](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/private.txt)
+  - `yaml` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/private.yaml](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/private.yaml)
 
 - ArvanCloud
 
-  - `text` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/arvancloud.txt](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/arvancloud.txt)
-  - `yaml` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/arvancloud.yaml](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/arvancloud.yaml)
+  - `text` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/arvancloud.txt](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/arvancloud.txt)
+  - `yaml` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/arvancloud.yaml](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/arvancloud.yaml)
 
 - DerakCloud
 
-  - `text` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/derakcloud.txt](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/derakcloud.txt)
-  - `yaml` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/derakcloud.yaml](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/derakcloud.yaml)
+  - `text` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/derakcloud.txt](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/derakcloud.txt)
+  - `yaml` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/derakcloud.yaml](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/derakcloud.yaml)
 
 - IranServer
 
-  - `text` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/iranserver.txt](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/iranserver.txt)
-  - `yaml` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/iranserver.yaml](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/iranserver.yaml)
+  - `text` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/iranserver.txt](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/iranserver.txt)
+  - `yaml` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/iranserver.yaml](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/iranserver.yaml)
 
 - ParsPack
-  - `text` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/parspack.txt](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/parspack.txt)
-  - `yaml` [https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/parspack.yaml](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-clash-rules@release/parspack.yaml)
+  - `text` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/parspack.txt](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/parspack.txt)
+  - `yaml` [https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/parspack.yaml](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/Iran-clash-rules@release/parspack.yaml)
 
 # :computer: Usage
 
@@ -279,63 +279,63 @@ rule-providers:
     type: http
     format: text
     behavior: domain
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir.txt"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ir.txt"
     path: ./ruleset/ir.txt
     interval: 86400
   ads:
     type: http
     format: text
     behavior: domain
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ads.txt"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ads.txt"
     path: ./ruleset/ads.txt
     interval: 86400
   malware:
     type: http
     format: text
     behavior: domain
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.txt"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/malware.txt"
     path: ./ruleset/malware.txt
     interval: 86400
   phishing:
     type: http
     format: text
     behavior: domain
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.txt"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/phishing.txt"
     path: ./ruleset/phishing.txt
     interval: 86400
   cryptominers:
     type: http
     format: text
     behavior: domain
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.txt"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/cryptominers.txt"
     path: ./ruleset/cryptominers.txt
     interval: 86400
   apps:
     type: http
     format: text
     behavior: classical
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/apps.txt"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/apps.txt"
     path: ./ruleset/apps.txt
     interval: 86400
   ircidr:
     type: http
     format: text
     behavior: ipcidr
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.txt"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ircidr.txt"
     path: ./ruleset/ircidr.txt
     interval: 86400
   private:
     type: http
     format: text
     behavior: ipcidr
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/private.txt"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/private.txt"
     path: ./ruleset/private.txt
     interval: 86400
   irasn:
     type: http
     format: text
     behavior: classical
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/irasn.txt"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/irasn.txt"
     path: ./ruleset/irasn.txt
     interval: 86400
 
@@ -360,63 +360,63 @@ rule-providers:
     type: http
     format: yaml
     behavior: domain
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir.yaml"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ir.yaml"
     path: ./ruleset/ir.yaml
     interval: 86400
   ads:
     type: http
     format: yaml
     behavior: domain
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ads.yaml"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ads.yaml"
     path: ./ruleset/ads.yaml
     interval: 86400
   malware:
     type: http
     format: yaml
     behavior: domain
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.yaml"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/malware.yaml"
     path: ./ruleset/malware.yaml
     interval: 86400
   phishing:
     type: http
     format: yaml
     behavior: domain
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.yaml"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/phishing.yaml"
     path: ./ruleset/phishing.yaml
     interval: 86400
   cryptominers:
     type: http
     format: yaml
     behavior: domain
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.yaml"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/cryptominers.yaml"
     path: ./ruleset/cryptominers.yaml
     interval: 86400
   apps:
     type: http
     format: yaml
     behavior: classical
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/apps.yaml"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/apps.yaml"
     path: ./ruleset/apps.yaml
     interval: 86400
   ircidr:
     type: http
     format: yaml
     behavior: ipcidr
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.yaml"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/ircidr.yaml"
     path: ./ruleset/ircidr.yaml
     interval: 86400
   private:
     type: http
     format: yaml
     behavior: ipcidr
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/private.yaml"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/private.yaml"
     path: ./ruleset/private.yaml
     interval: 86400
   irasn:
     type: http
     format: yaml
     behavior: classical
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/irasn.yaml"
+    url: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/irasn.yaml"
     path: ./ruleset/irasn.yaml
     interval: 86400
 
@@ -444,7 +444,7 @@ Add this to the top of your configuration.
 geox-url:
   geoip: "https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/geoip.dat"
   geosite: "https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/geosite.dat"
-  mmdb: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/geoip.metadb"
+  mmdb: "https://raw.githubusercontent.com/ThyArt-IsMurder/Iran-clash-rules/release/geoip.metadb"
   asn: "https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/geolite2/GeoLite2-ASN.mmdb"
 ```
 
